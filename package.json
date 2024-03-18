@@ -1,0 +1,19 @@
+{
+  "name": "cluster-and-threads-in-node",
+  "version": "1.0.0",
+  "description": "A simple example of cluster and threads using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromedina19/Cluster-and-Threads-in-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedromedina19/Cluster-and-Threads-in-node.js/issues"
+  },
+  "homepage": "https://github.com/pedromedina19/Cluster-and-Threads-in-node.js#readme"
+}
