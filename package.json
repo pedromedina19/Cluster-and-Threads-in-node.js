@@ -12,6 +12,7 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/pedromedina19/Cluster-and-Threads-in-node.js/issues"
   },
